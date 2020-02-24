@@ -8,7 +8,7 @@ import './App.css'
 //import StyleSheet from './component/StyleSheet'
 //import Inline from './component/Inline'
 import Form from './component/Form'
-import Greet from './component/Greet'
+//import Greet from './component/Greet'
 
 //import FragmentDemo from './component/FragmentDemo'
 //import Table from './component/Table'
@@ -30,8 +30,8 @@ render(){
     <div className="App">
 {/*<h1 className='error'>error</h1>
       <h1 className={style.success}>success</h1>*/}
-      {/*<Form />*/}
-      <Greet/>
+      <Form />
+      {/*<Greet/>*}
       {/*<FragmentDemo />*/}
      { /*<Table />*/}
       {/*<Inline />*/}
